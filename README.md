@@ -26,10 +26,9 @@ I build efficient systems and CLI tools with a focus on clean architecture, stru
 
 🧠 What I Bring
 
-- Strong foundation in Python & core programming logic
-- Focus on clean, maintainable, and scalable code
-- Experience developing in mobile-based environments (Termux)
-- Consistent learner with a problem-solving mindset
+• Built multiple CLI tools using JSON-based persistence  
+• Designed CRUD systems with validation and error handling  
+• Comfortable working in constrained environments (Termux/mobile)
 
 ---
 
