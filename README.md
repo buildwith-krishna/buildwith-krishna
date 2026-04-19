@@ -1,70 +1,85 @@
-👋 Hi, I'm Krishna
+<h1 align="center">Hey, I'm Krishna 👋</h1>
 
-💻 Python Backend-Focused Developer
-I build efficient systems and CLI tools with a focus on clean architecture, structured logic, and real-world usability—even in low-resource environments.
+<p align="center">
+  <em>Python developer building backend systems and CLI tools — from a phone. Seriously.</em>
+</p>
 
----
-## 🛠️ Tech Stack  
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![CLI](https://img.shields.io/badge/CLI-Tool-blue?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-VersionControl-orange?style=for-the-badge)
-![Termux](https://img.shields.io/badge/Termux-MobileDev-black?style=for-the-badge)
-
-🚀 Current Work
-
-🔭 Building: CLI-Based Notes Management System
-
-- Structured data handling
-- Modular architecture
-- Robust error handling
-- Optimized for constrained environments
-
-🔗 Project: https://github.com/buildwith-krishna/notes-app
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/CLI-Tools-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Git-Version%20Control-orange?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Termux-Mobile%20Dev-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/FastAPI-Learning-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+</p>
 
 ---
 
-🧠 What I Bring
+## 🧑‍💻 About Me
 
-• Built multiple CLI tools using JSON-based persistence  
-• Designed CRUD systems with validation and error handling  
-• Comfortable working in constrained environments (Termux/mobile)
+I build efficient backend systems and CLI tools with a focus on **clean architecture**, **structured logic**, and **real-world usability** — even in low-resource environments like Termux on mobile.
 
----
+Working in constrained environments has made me disciplined about writing lean, maintainable code and understanding how systems truly work from the ground up.
 
-📌 Featured Project
-
-📝 Notes Management System (CLI)
-
-A terminal-based application designed to manage notes efficiently.
-
-✔ Clean modular structure
-✔ Handles edge cases & errors
-✔ Lightweight and optimized
-✔ Built with scalability in mind
+- 🔭 Currently building a **CLI-Based Notes Management System**
+- 🌱 Transitioning into **FastAPI / Django** for production-level API development
+- 📐 Focused on **database design** and **system architecture**
+- 💬 Ask me about Python backends, CLI tools, or mobile dev with Termux
 
 ---
 
-📈 Growth Roadmap
+## 📌 Featured Project — Notes Management System
 
-- Transitioning into API Development (Django / FastAPI)
-- Building production-level backend systems
-- Learning database design & system architecture
+> A terminal-based application to manage notes efficiently, built with clean modular Python.
 
----
+| Feature | Detail |
+|---|---|
+| 🗂 Storage | JSON-based persistence |
+| 🧱 Architecture | Modular, CRUD-ready structure |
+| 🛡 Reliability | Edge case handling & robust error management |
+| 📱 Environment | Optimized for Termux / constrained systems |
+| 📈 Design | Built with scalability in mind from day one |
 
-💡 Approach to Development
-
-I focus on building strong backend fundamentals by writing scalable and maintainable logic—even in constrained environments.
-
-This helps me develop discipline, adaptability, and a deeper understanding of how systems work.
-
----
-
-📫 Connect
-
-GitHub: https://github.com/buildwith-krishna
+🔗 **[View Project on GitHub →](https://github.com/buildwith-krishna/notes-app)**
 
 ---
 
-⭐ Consistent progress > temporary motivation
+## 🧠 What I Bring
+
+- 🛠 Built multiple CLI tools with **JSON-based persistence**, handling structured data reliably on mobile hardware
+- ✅ Designed **CRUD systems** with validation, error handling, and clean separation of concerns
+- 📱 Proven ability to **ship working software in constrained environments** (Termux / Android)
+- 🔍 Strong focus on **code readability** and maintainable architecture
+
+---
+
+## 📈 Growth Roadmap
+
+- [ ] 🚀 Ship a **REST API** project using FastAPI
+- [ ] 🗄 Learn **database design** (PostgreSQL + SQLAlchemy)
+- [ ] 🏗 Build a full **production-level backend system**
+- [ ] 📦 Contribute to an **open source Python project**
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=buildwith-krishna&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=buildwith-krishna&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
+</p>
+
+---
+
+## 📫 Connect
+
+<p>
+  <a href="https://github.com/buildwith-krishna">
+    <img src="https://img.shields.io/badge/GitHub-buildwith--krishna-181717?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <em>⭐ Consistent progress > temporary motivation</em>
+</p>
