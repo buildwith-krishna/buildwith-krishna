@@ -9,6 +9,7 @@
   <img src="https://img.shields.io/badge/CLI-Tools-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Git-Version%20Control-orange?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Termux-Mobile%20Dev-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Cryptography-Fernet%20AES-red?style=for-the-badge" />
   <img src="https://img.shields.io/badge/FastAPI-Learning-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 </p>
 
@@ -20,31 +21,33 @@ I build efficient backend systems and CLI tools with a focus on **clean architec
 
 Working in constrained environments has made me disciplined about writing lean, maintainable code and understanding how systems truly work from the ground up.
 
-- 🔭 Currently building a **CLI-Based Notes Management System**
+- 🔭 Recently shipped a **fully encrypted CLI Password Manager** — built entirely on Android
 - 🌱 Transitioning into **FastAPI / Django** for production-level API development
 - 📐 Focused on **database design** and **system architecture**
 - 💬 Ask me about Python backends, CLI tools, or mobile dev with Termux
 
 ---
 
-## 📌 Featured Project — Notes Management System
+## 📌 Featured Project — Password Manager CLI
 
-> A terminal-based application to manage notes efficiently, built with clean modular Python.
+> A fully encrypted, terminal-based password manager built in Python — from scratch, on a phone.
 
 | Feature | Detail |
 |---|---|
-| 🗂 Storage | JSON-based persistence |
-| 🧱 Architecture | Modular, CRUD-ready structure |
-| 🛡 Reliability | Edge case handling & robust error management |
-| 📱 Environment | Optimized for Termux / constrained systems |
-| 📈 Design | Built with scalability in mind from day one |
+| 🔒 Encryption | Fernet AES-128 — all passwords encrypted at rest |
+| 🔑 Auth | Master key with 3-attempt lockout system |
+| 🗂 Storage | JSON-based encrypted persistence |
+| 🧱 Architecture | Modular, full CRUD structure |
+| 🛡 Security | `secrets` module, SHA-256 key derivation |
+| 📱 Environment | Built entirely on Termux / Android |
 
-🔗 **[View Project on GitHub →](https://github.com/buildwith-krishna/notes-app)**
+🔗 **[View Project on GitHub →](https://github.com/buildwith-krishna/password-manager-cli)**
 
 ---
 
 ## 🧠 What I Bring
 
+- 🔐 Implemented **Fernet encryption** with SHA-256 key derivation in a real working project
 - 🛠 Built multiple CLI tools with **JSON-based persistence**, handling structured data reliably on mobile hardware
 - ✅ Designed **CRUD systems** with validation, error handling, and clean separation of concerns
 - 📱 Proven ability to **ship working software in constrained environments** (Termux / Android)
@@ -54,6 +57,7 @@ Working in constrained environments has made me disciplined about writing lean, 
 
 ## 📈 Growth Roadmap
 
+- [x] 🔐 Build and ship a **secure, encrypted CLI tool**
 - [ ] 🚀 Ship a **REST API** project using FastAPI
 - [ ] 🗄 Learn **database design** (PostgreSQL + SQLAlchemy)
 - [ ] 🏗 Build a full **production-level backend system**
