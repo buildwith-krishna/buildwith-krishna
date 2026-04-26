@@ -21,15 +21,16 @@ I build efficient backend systems and CLI tools with a focus on **clean architec
 
 Working in constrained environments has made me disciplined about writing lean, maintainable code and understanding how systems truly work from the ground up.
 
-- 🔭 Recently shipped a **fully encrypted CLI Password Manager** — built entirely on Android
+- 🔭 Recently shipped a **fully encrypted CLI Password Manager** and a **Contact Book CLI** — both built entirely on Android
 - 🌱 Transitioning into **FastAPI / Django** for production-level API development
 - 📐 Focused on **database design** and **system architecture**
 - 💬 Ask me about Python backends, CLI tools, or mobile dev with Termux
 
 ---
 
-## 📌 Featured Project — Password Manager CLI
+## 📌 Featured Projects
 
+### 🔐 Password Manager CLI
 > A fully encrypted, terminal-based password manager built in Python — from scratch, on a phone.
 
 | Feature | Detail |
@@ -42,6 +43,20 @@ Working in constrained environments has made me disciplined about writing lean, 
 | 📱 Environment | Built entirely on Termux / Android |
 
 🔗 **[View Project on GitHub →](https://github.com/buildwith-krishna/password-manager-cli)**
+
+---
+
+### 📇 Contact Book CLI
+> A command-line contact manager with full CRUD and JSON persistence.
+
+| Feature | Detail |
+|---|---|
+| 👤 Contacts | Add, view, search, update, delete |
+| 💾 Storage | JSON file-based persistent storage |
+| ⚠️ Validation | Input validation and error handling |
+| 📱 Environment | Built entirely on Termux / Android |
+
+🔗 **[View Project on GitHub →](https://github.com/buildwith-krishna/contact-book-cli)**
 
 ---
 
@@ -58,6 +73,7 @@ Working in constrained environments has made me disciplined about writing lean, 
 ## 📈 Growth Roadmap
 
 - [x] 🔐 Build and ship a **secure, encrypted CLI tool**
+- [x] 📇 Build a **JSON-persistent CRUD CLI app**
 - [ ] 🚀 Ship a **REST API** project using FastAPI
 - [ ] 🗄 Learn **database design** (PostgreSQL + SQLAlchemy)
 - [ ] 🏗 Build a full **production-level backend system**
