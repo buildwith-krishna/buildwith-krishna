@@ -11,6 +11,7 @@
   <img src="https://img.shields.io/badge/Termux-Mobile%20Dev-black?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Cryptography-Fernet%20AES-red?style=for-the-badge" />
   <img src="https://img.shields.io/badge/FastAPI-Learning-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Multi--File-Architecture-6a0dad?style=for-the-badge" />
 </p>
 
 ---
@@ -21,7 +22,8 @@ I build efficient backend systems and CLI tools with a focus on **clean architec
 
 Working in constrained environments has made me disciplined about writing lean, maintainable code and understanding how systems truly work from the ground up.
 
-- 🔭 Recently shipped a **fully encrypted CLI Password Manager** and a **Contact Book CLI** — both built entirely on Android
+- 🔭 Currently building a **CLI Finance Tracker** with multi-file architecture, datetime tracking, and JSON persistence — on Android
+- 🔐 Previously shipped a **fully encrypted CLI Password Manager** and a **Contact Book CLI** — both built entirely on Android
 - 🌱 Transitioning into **FastAPI / Django** for production-level API development
 - 📐 Focused on **database design** and **system architecture**
 - 💬 Ask me about Python backends, CLI tools, or mobile dev with Termux
@@ -29,6 +31,21 @@ Working in constrained environments has made me disciplined about writing lean, 
 ---
 
 ## 📌 Featured Projects
+
+### 💰 Finance Tracker CLI *(In Active Development)*
+> A terminal-based personal finance tracker with multi-file modular architecture — built in Python, on a phone.
+
+| Feature | Detail |
+|---|---|
+| 📁 Architecture | Multi-file modular structure (config, storage, tracker, utils) |
+| 📅 Tracking | Datetime-stamped entries — every transaction is unique |
+| 💾 Storage | JSON-based persistent storage |
+| 🧱 Structure | Clean separation of concerns across files |
+| 📱 Environment | Built entirely on Termux / Android |
+
+🔗 **[View Project on GitHub →](https://github.com/buildwith-krishna/Finance-tracker-cli)**
+
+---
 
 ### 🔐 Password Manager CLI
 > A fully encrypted, terminal-based password manager built in Python — from scratch, on a phone.
@@ -64,6 +81,7 @@ Working in constrained environments has made me disciplined about writing lean, 
 
 - 🔐 Implemented **Fernet encryption** with SHA-256 key derivation in a real working project
 - 🛠 Built multiple CLI tools with **JSON-based persistence**, handling structured data reliably on mobile hardware
+- 📁 Designed and implemented **multi-file modular architecture** with clean cross-file imports
 - ✅ Designed **CRUD systems** with validation, error handling, and clean separation of concerns
 - 📱 Proven ability to **ship working software in constrained environments** (Termux / Android)
 - 🔍 Strong focus on **code readability** and maintainable architecture
@@ -74,6 +92,8 @@ Working in constrained environments has made me disciplined about writing lean, 
 
 - [x] 🔐 Build and ship a **secure, encrypted CLI tool**
 - [x] 📇 Build a **JSON-persistent CRUD CLI app**
+- [x] 📁 Implement **multi-file modular architecture** in a real project
+- [ ] 💰 Complete **Finance Tracker CLI** with full CRUD and reports
 - [ ] 🚀 Ship a **REST API** project using FastAPI
 - [ ] 🗄 Learn **database design** (PostgreSQL + SQLAlchemy)
 - [ ] 🏗 Build a full **production-level backend system**
