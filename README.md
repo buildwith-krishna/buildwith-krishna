@@ -110,7 +110,12 @@ Working in constrained environments has made me disciplined about writing lean, 
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=buildwith-krishna&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=buildwith-krishna&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" width="40%" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Total%20Contributions-68-brightgreen?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Languages-Python%20100%25-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Projects%20Shipped-5%2B-orange?style=for-the-badge" />
 </p>
 
 ---
