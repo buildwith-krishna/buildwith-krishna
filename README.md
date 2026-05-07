@@ -24,6 +24,7 @@ Working in constrained environments has made me disciplined about writing lean, 
 
 - 🔭 Just completed **Phase 1 of CLI Finance Tracker** — full CRUD, monthly summaries, category breakdown, date search, and modular architecture — on Android
 - 🔐 Previously shipped a **fully encrypted CLI Password Manager** and a **Contact Book CLI** — both built entirely on Android
+- 📚 Currently on a **15-day structured OOP learning journey** in Python — 4 days in, building strong fundamentals before FastAPI
 - 🌱 Transitioning into **FastAPI / Django** for production-level API development
 - 📐 Focused on **database design** and **system architecture**
 - 💬 Ask me about Python backends, CLI tools, or mobile dev with Termux
@@ -99,6 +100,7 @@ Working in constrained environments has made me disciplined about writing lean, 
 - [x] 📇 Build a **JSON-persistent CRUD CLI app**
 - [x] 📁 Implement **multi-file modular architecture** in a real project
 - [x] 💰 Complete **Finance Tracker CLI Phase 1** — full CRUD, reports, category breakdown, date search
+- [x] 🐍 Complete **15-day OOP fundamentals** — Classes, Encapsulation, Polymorphism, Dunder methods *(in progress — Day 4/15)*
 - [ ] 🚀 Ship a **REST API** project using FastAPI
 - [ ] 🗄 Learn **database design** (PostgreSQL + SQLAlchemy)
 - [ ] 🏗 Build a full **production-level backend system**
@@ -113,7 +115,8 @@ Working in constrained environments has made me disciplined about writing lean, 
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Total%20Contributions-68-brightgreen?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Total%20Contributions-75-brightgreen?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Current%20Streak-22%20Days-orange?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Languages-Python%20100%25-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Projects%20Shipped-5%2B-orange?style=for-the-badge" />
 </p>
