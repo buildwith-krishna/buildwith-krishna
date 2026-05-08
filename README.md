@@ -24,7 +24,7 @@ Working in constrained environments has made me disciplined about writing lean, 
 
 - 🔭 Just completed **Phase 1 of CLI Finance Tracker** — full CRUD, monthly summaries, category breakdown, date search, and modular architecture — on Android
 - 🔐 Previously shipped a **fully encrypted CLI Password Manager** and a **Contact Book CLI** — both built entirely on Android
-- 📚 Currently on a **15-day structured OOP learning journey** in Python — 4 days in, building strong fundamentals before FastAPI
+- 📚 Currently on a **15-day structured OOP learning journey** in Python — 6 days in, building strong fundamentals before FastAPI
 - 🌱 Transitioning into **FastAPI / Django** for production-level API development
 - 📐 Focused on **database design** and **system architecture**
 - 💬 Ask me about Python backends, CLI tools, or mobile dev with Termux
