@@ -82,6 +82,26 @@ Working in constrained environments has made me disciplined about writing lean, 
 
 ---
 
+## 🐍 OOP Learning Journey *(In Progress)*
+
+> 15-day structured OOP learning in Python — building strong fundamentals before FastAPI.
+
+| Day | Topic | What I Learned | Status |
+|-----|-------|----------------|--------|
+| 01 | Classes, Objects, Inheritance, `super()` | Classes & Objects, `__init__()`, Inheritance, passing args into constructors | ✅ |
+| 02 | Encapsulation | Private variables `__balance`, getters & setters, `try/except` for input validation | ✅ |
+| 03 | Polymorphism | Method overriding, duck typing, same method name different behaviour per class | ✅ |
+| 04 | Dunder Methods | `__str__`, `__repr__`, `__len__` — return inside dunders, not print | ✅ |
+| 05 | Class & Static Methods | `@classmethod` with `cls`, `@staticmethod` as utility helper, class variables | ✅ |
+| 06 | Abstract Classes | `ABC`, `@abstractmethod`, forcing child classes to implement methods, contracts in code | ✅ |
+| 07 | Composition vs Inheritance | 🔜 | 🔜 |
+| 08 | Real Project — OOP Refactor | 🔜 | 🔜 |
+| 09 | Error Handling in Classes | 🔜 | 🔜 |
+| 10 | Mini Project & OOP Revision | 🔜 | 🔜 |
+| 11–15 | FastAPI Prep | 🔜 | 🔜 |
+
+---
+
 ## 🧠 What I Bring
 
 - 🔐 Implemented **Fernet encryption** with SHA-256 key derivation in a real working project
@@ -100,7 +120,7 @@ Working in constrained environments has made me disciplined about writing lean, 
 - [x] 📇 Build a **JSON-persistent CRUD CLI app**
 - [x] 📁 Implement **multi-file modular architecture** in a real project
 - [x] 💰 Complete **Finance Tracker CLI Phase 1** — full CRUD, reports, category breakdown, date search
-- [x] 🐍 Complete **15-day OOP fundamentals** — Classes, Encapsulation, Polymorphism, Dunder methods *(in progress — Day 4/15)*
+- [x] 🐍 Complete **15-day OOP fundamentals** — Classes, Encapsulation, Polymorphism, Dunder Methods, Class & Static Methods, Abstract Classes *(in progress — Day 6/15)*
 - [ ] 🚀 Ship a **REST API** project using FastAPI
 - [ ] 🗄 Learn **database design** (PostgreSQL + SQLAlchemy)
 - [ ] 🏗 Build a full **production-level backend system**
@@ -115,8 +135,8 @@ Working in constrained environments has made me disciplined about writing lean, 
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Total%20Contributions-75-brightgreen?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Current%20Streak-22%20Days-orange?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Total%20Contributions-80-brightgreen?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Current%20Streak-26%20Days-orange?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Languages-Python%20100%25-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Projects%20Shipped-5%2B-orange?style=for-the-badge" />
 </p>
