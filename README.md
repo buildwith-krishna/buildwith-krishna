@@ -135,8 +135,8 @@ Working in constrained environments has made me disciplined about writing lean, 
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Total%20Contributions-80-brightgreen?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Current%20Streak-26%20Days-orange?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Total%20Contributions-82-brightgreen?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Current%20Streak-27%20Days-orange?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Languages-Python%20100%25-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Projects%20Shipped-5%2B-orange?style=for-the-badge" />
 </p>
