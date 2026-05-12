@@ -95,7 +95,7 @@ Working in constrained environments has made me disciplined about writing lean, 
 | 05 | Class & Static Methods | `@classmethod` with `cls`, `@staticmethod` as utility helper, class variables | ✅ |
 | 06 | Abstract Classes | `ABC`, `@abstractmethod`, forcing child classes to implement methods, contracts in code | ✅ |
 | 07 | Composition vs Inheritance | Inheritance = IS A, Composition = HAS A, class owning another class, prefer composition when unsure | ✅ |
-| 08 | Real Project — OOP Contact Book | 🔜 | 🔜 |
+| 08 | Real Project — OOP Contact Book | ✅ | ✅ |
 | 09 | Error Handling in Classes | 🔜 | 🔜 |
 | 10 | Mini Project & OOP Revision | 🔜 | 🔜 |
 | 11–15 | FastAPI Prep | 🔜 | 🔜 |
@@ -120,7 +120,7 @@ Working in constrained environments has made me disciplined about writing lean, 
 - [x] 📇 Build a **JSON-persistent CRUD CLI app**
 - [x] 📁 Implement **multi-file modular architecture** in a real project
 - [x] 💰 Complete **Finance Tracker CLI Phase 1** — full CRUD, reports, category breakdown, date search
-- [x] 🐍 Complete **15-day OOP fundamentals** — Classes, Encapsulation, Polymorphism, Dunder Methods, Class & Static Methods, Abstract Classes, Composition vs Inheritance *(in progress — Day 7/15)*
+- [x] 🐍 Complete **15-day OOP fundamentals** — Classes, Encapsulation, Polymorphism, Dunder Methods, Class & Static Methods, Abstract Classes, Composition vs Inheritance,OOP Contact Book refactor *(in progress — Day 8/15)*
 - [ ] 🚀 Ship a **REST API** project using FastAPI
 - [ ] 🗄 Learn **database design** (PostgreSQL + SQLAlchemy)
 - [ ] 🏗 Build a full **production-level backend system**
