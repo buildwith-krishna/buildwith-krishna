@@ -22,9 +22,10 @@ I build efficient backend systems and CLI tools with a focus on **clean architec
 
 Working in constrained environments has made me disciplined about writing lean, maintainable code and understanding how systems truly work from the ground up.
 
-- 🔭 Just completed **Phase 1 of CLI Finance Tracker** — full CRUD, monthly summaries, category breakdown, date search, and modular architecture — on Android
+- 🔭 Currently building **Banking System CLI** — account model, deposit, withdrawal, validation, and JSON storage helpers — on Android
+- 💰 Recently completed **Phase 1 of CLI Finance Tracker** — full CRUD, monthly summaries, category breakdown, date search, and modular architecture
 - 🔐 Previously shipped a **fully encrypted CLI Password Manager** and a **Contact Book CLI** — both built entirely on Android
-- 📚 Currently on a **15-day structured OOP learning journey** in Python — 9 days in, building strong fundamentals before FastAPI
+- 📚 Learning OOP deeply through real CLI projects before moving fully into FastAPI
 - 🌱 Transitioning into **FastAPI / Django** for production-level API development
 - 📐 Focused on **database design** and **system architecture**
 - 💬 Ask me about Python backends, CLI tools, or mobile dev with Termux
@@ -32,6 +33,23 @@ Working in constrained environments has made me disciplined about writing lean, 
 ---
 
 ## 📌 Featured Projects
+
+### 🏦 Banking System CLI *(Phase 1 Started 🚧)*
+> A terminal-based banking system built in Python — account creation flow, deposit, withdrawal, validation, and JSON storage helpers.
+
+| Feature | Detail |
+|---|---|
+| 🧱 OOP | Account class with account number, name, and balance |
+| 💰 Deposit | Add money and show updated balance |
+| 🏧 Withdrawal | Withdraw money with insufficient balance check |
+| ✅ Validation | Empty name, number-only input, and amount validation |
+| 💾 Storage | JSON load/save helper functions prepared |
+| ⚙️ Config | Separate config file for data file name |
+| 📱 Environment | Built entirely on Termux / Android |
+
+🔗 **[View Project on GitHub →](https://github.com/buildwith-krishna/Banking-System-ClI)**
+
+---
 
 ### 💰 Finance Tracker CLI *(Phase 1 Complete ✅)*
 > A terminal-based personal finance tracker — full CRUD, monthly reports, category breakdown, date search. Built in Python, on a phone.
@@ -78,7 +96,7 @@ Working in constrained environments has made me disciplined about writing lean, 
 | ⚠️ Validation | Input validation and error handling |
 | 📱 Environment | Built entirely on Termux / Android |
 
-🔗 **[View Project on GitHub →](https://github.com/buildwith-krishna/contact-book-cli)**
+🔗 **[View Project on GitHub →](https://github.com/buildwith-krishna/Contact-book-CLI)**
 
 ---
 
@@ -97,7 +115,7 @@ Working in constrained environments has made me disciplined about writing lean, 
 | 07 | Composition vs Inheritance | Inheritance = IS A, Composition = HAS A, class owning another class, prefer composition when unsure | ✅ |
 | 08 | Real Project — OOP Contact Book | Multi-file OOP architecture, Inheritance in project structure, Composition (HAS A storage system), Separation of Concerns across files | ✅ |
 | 09 | OOP Contact Book — Refactor & Debug | Input validation in every method, flag pattern to avoid dict mutation during iteration, safe update logic (collect inputs before deleting), `.gitignore` for data files | ✅ |
-| 10 | Mini Project & OOP Revision | 🔜 | 🔜 |
+| 10 | Mini Project & OOP Revision | Banking System CLI — account model, validation, deposit and withdrawal flow | ✅ |
 | 11–15 | FastAPI Prep | 🔜 | 🔜 |
 
 ---
@@ -109,6 +127,7 @@ Working in constrained environments has made me disciplined about writing lean, 
 - 📁 Designed and implemented **multi-file modular architecture** with clean cross-file imports
 - 📊 Built **reporting and filtering logic** — monthly summaries, category breakdowns, date search, balance calculations
 - ✅ Designed **CRUD systems** with type and category validation, error handling, and clean separation of concerns
+- 🏦 Building **banking domain logic** with OOP, validation, and JSON storage preparation
 - 📱 Proven ability to **ship working software in constrained environments** (Termux / Android)
 - 🔍 Strong focus on **code readability** and maintainable architecture
 
@@ -120,7 +139,8 @@ Working in constrained environments has made me disciplined about writing lean, 
 - [x] 📇 Build a **JSON-persistent CRUD CLI app**
 - [x] 📁 Implement **multi-file modular architecture** in a real project
 - [x] 💰 Complete **Finance Tracker CLI Phase 1** — full CRUD, reports, category breakdown, date search
-- [x] 🐍 Complete **15-day OOP fundamentals** — Classes, Encapsulation, Polymorphism, Dunder Methods, Class & Static Methods, Abstract Classes, Composition vs Inheritance, OOP Contact Book refactor *(Day 9/15)*
+- [x] 🏦 Start **Banking System CLI** with OOP account model, validation, deposit, withdrawal, and JSON storage helpers
+- [ ] 🐍 Complete **15-day OOP fundamentals** — currently applying concepts in real CLI projects
 - [ ] 🚀 Ship a **REST API** project using FastAPI
 - [ ] 🗄 Learn **database design** (PostgreSQL + SQLAlchemy)
 - [ ] 🏗 Build a full **production-level backend system**
@@ -135,10 +155,8 @@ Working in constrained environments has made me disciplined about writing lean, 
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Total%20Contributions-92-brightgreen?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Current%20Streak-32%20Days-orange?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Languages-Python%20100%25-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Projects%20Shipped-5%2B-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Projects%20Shipped-6%2B-orange?style=for-the-badge" />
 </p>
 
 ---
