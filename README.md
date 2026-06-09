@@ -25,7 +25,6 @@ Working in constrained environments has made me disciplined about writing lean, 
 - 🔭 Currently building **Banking System CLI** — account model, deposit, withdrawal, validation, and JSON storage helpers — on Android
 - 💰 Recently completed **Phase 1 of CLI Finance Tracker** — full CRUD, monthly summaries, category breakdown, date search, and modular architecture
 - 🔐 Previously shipped a **fully encrypted CLI Password Manager** and a **Contact Book CLI** — both built entirely on Android
-- 📚 Learning OOP deeply through real CLI projects before moving fully into FastAPI
 - 🌱 Transitioning into **FastAPI / Django** for production-level API development
 - 📐 Focused on **database design** and **system architecture**
 - 💬 Ask me about Python backends, CLI tools, or mobile dev with Termux
@@ -34,7 +33,7 @@ Working in constrained environments has made me disciplined about writing lean, 
 
 ## 📌 Featured Projects
 
-### 🏦 Banking System CLI *(Phase 1 Started 🚧)*
+### 🏦 Banking System CLI *(Phase 2 Started 🚧)*
 > A terminal-based banking system built in Python — account creation flow, deposit, withdrawal, validation, and JSON storage helpers.
 
 | Feature | Detail |
@@ -100,25 +99,6 @@ Working in constrained environments has made me disciplined about writing lean, 
 
 ---
 
-## 🐍 OOP Learning Journey *(In Progress)*
-
-> 15-day structured OOP learning in Python — building strong fundamentals before FastAPI.
-
-| Day | Topic | What I Learned | Status |
-|-----|-------|----------------|--------|
-| 01 | Classes, Objects, Inheritance, `super()` | Classes & Objects, `__init__()`, Inheritance, passing args into constructors | ✅ |
-| 02 | Encapsulation | Private variables `__balance`, getters & setters, `try/except` for input validation | ✅ |
-| 03 | Polymorphism | Method overriding, duck typing, same method name different behaviour per class | ✅ |
-| 04 | Dunder Methods | `__str__`, `__repr__`, `__len__` — return inside dunders, not print | ✅ |
-| 05 | Class & Static Methods | `@classmethod` with `cls`, `@staticmethod` as utility helper, class variables | ✅ |
-| 06 | Abstract Classes | `ABC`, `@abstractmethod`, forcing child classes to implement methods, contracts in code | ✅ |
-| 07 | Composition vs Inheritance | Inheritance = IS A, Composition = HAS A, class owning another class, prefer composition when unsure | ✅ |
-| 08 | Real Project — OOP Contact Book | Multi-file OOP architecture, Inheritance in project structure, Composition (HAS A storage system), Separation of Concerns across files | ✅ |
-| 09 | OOP Contact Book — Refactor & Debug | Input validation in every method, flag pattern to avoid dict mutation during iteration, safe update logic (collect inputs before deleting), `.gitignore` for data files | ✅ |
-| 10 | Mini Project & OOP Revision | Banking System CLI — account model, validation, deposit and withdrawal flow | ✅ |
-| 11–15 | FastAPI Prep | 🔜 | 🔜 |
-
----
 
 ## 🧠 What I Bring
 
@@ -140,7 +120,6 @@ Working in constrained environments has made me disciplined about writing lean, 
 - [x] 📁 Implement **multi-file modular architecture** in a real project
 - [x] 💰 Complete **Finance Tracker CLI Phase 1** — full CRUD, reports, category breakdown, date search
 - [x] 🏦 Start **Banking System CLI** with OOP account model, validation, deposit, withdrawal, and JSON storage helpers
-- [ ] 🐍 Complete **15-day OOP fundamentals** — currently applying concepts in real CLI projects
 - [ ] 🚀 Ship a **REST API** project using FastAPI
 - [ ] 🗄 Learn **database design** (PostgreSQL + SQLAlchemy)
 - [ ] 🏗 Build a full **production-level backend system**
